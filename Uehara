@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<video src="uehara.mp4" controls width="640" height="480"></video>
+</body>
+</html>
